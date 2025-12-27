@@ -1,0 +1,12 @@
+Refrence,Item,Description,Quantity,Unit Price (USD),Total (USD),Link
+C1,Capacitor,CAP ALUM 1UF 20% 50V RADIAL TH,1,$0.10,$0.10,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020672005/5727088
+C2,Capacitor,CER CAP 0.01UF 50V,1,$0.24,$0.24,https://www.digikey.com/en/products/detail/kemet/C410C103Z5U5TA7200/12701821
+D1-10,LED,LED COOL WHITE 5MM ROUND T/H,10,$0.22,$2.23,https://www.digikey.com/en/products/detail/cree-led/C543A-WMN-CCCKK141/9959490
+R1,Resistor,RES 1K OHM 1% 1/4W AXIAL,1,$0.10,$0.10,https://www.digikey.com/en/products/detail/yageo/MFR-25FRF52-1K/14891
+R2,Resistor,RES 470 OHM 1% 1/4W AXIAL,1,$0.10,$0.10,https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-470R/9138172?s=N4IgTCBcDaILIDEBKBaMBWBAhB6woBYB2ABlQDkAREAXQF8g
+RV1,Variable Resistor,TRIMMER 50K OHM 0.5W PC PIN TOP,1,$2.20,$2.20,https://www.digikey.com/en/products/detail/bourns-inc/3386P-1-503TLF/1232551?s=N4IgTCBcDaIMxwBwDYAKBaArABjgFQBkAxdAOQBEQBdAXyA
+TP1,Test Point,PC TEST POINT SLOTTED,1,$0.15,$0.15,https://www.digikey.com/en/products/detail/keystone-electronics/1035/315151
+TP2,Test Point,PC TEST POINT SLOTTED,1,$0.15,$0.15,https://www.digikey.com/en/products/detail/keystone-electronics/1035/315151
+TP3,Test Point,PC TEST POINT SLOTTED,1,$0.15,$0.15,https://www.digikey.com/en/products/detail/keystone-electronics/1035/315151
+U1,NE555PS,IC OSC TIMER SINGLE 100KHZ 8SO,1,$1.10,$1.10,https://www.digikey.com/en/products/detail/texas-instruments/NE555PS/9692573?s=N4IgTCBcDa4JwDYC0A5AogViwBQMqoBEQBdAXyA
+U2,CD4017BE,IC DECADE COUNTER 10BIT 16DIP,1,$1.27,$1.27,https://www.digikey.com/en/products/detail/texas-instruments/CD4017BE/67253
