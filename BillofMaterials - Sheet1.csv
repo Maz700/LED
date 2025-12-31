@@ -10,3 +10,4 @@ TP2,Test Point,PC TEST POINT SLOTTED,1,$0.15,$0.15,https://www.digikey.com/en/pr
 TP3,Test Point,PC TEST POINT SLOTTED,1,$0.15,$0.15,https://www.digikey.com/en/products/detail/keystone-electronics/1035/315151
 U1,NE555PS,IC OSC TIMER SINGLE 100KHZ 8SO,1,$1.10,$1.10,https://www.digikey.com/en/products/detail/texas-instruments/NE555PS/9692573?s=N4IgTCBcDa4JwDYC0A5AogViwBQMqoBEQBdAXyA
 U2,CD4017BE,IC DECADE COUNTER 10BIT 16DIP,1,$1.27,$1.27,https://www.digikey.com/en/products/detail/texas-instruments/CD4017BE/67253
+PCB,PCB,PCB,1,$2,$2,https://cart.jlcpcb.com/quote
